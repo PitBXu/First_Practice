@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MyApplication.iml" filepath="$PROJECT_DIR$/MyApplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/application/application.iml" filepath="$PROJECT_DIR$/application/application.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo_01/demo_01.iml" filepath="$PROJECT_DIR$/demo_01/demo_01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo_02/demo_02.iml" filepath="$PROJECT_DIR$/demo_02/demo_02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo_03/demo_03.iml" filepath="$PROJECT_DIR$/demo_03/demo_03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo_04/demo_04.iml" filepath="$PROJECT_DIR$/demo_04/demo_04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo_04_2/demo_04_2.iml" filepath="$PROJECT_DIR$/demo_04_2/demo_04_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo_07/demo_07.iml" filepath="$PROJECT_DIR$/demo_07/demo_07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo_08/demo_08.iml" filepath="$PROJECT_DIR$/demo_08/demo_08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lianxiren/lianxiren.iml" filepath="$PROJECT_DIR$/lianxiren/lianxiren.iml" />
+      <module fileurl="file://$PROJECT_DIR$/taobao/taobao.iml" filepath="$PROJECT_DIR$/taobao/taobao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tongxunlu/tongxunlu.iml" filepath="$PROJECT_DIR$/tongxunlu/tongxunlu.iml" />
+    </modules>
+  </component>
+</project>
